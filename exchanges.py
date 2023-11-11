@@ -1,8 +1,8 @@
 import json
 import time
-import terminal
+import terminal # Add ANSI terminal support https://pypi.org/project/terminal/
 import colorama # Add ANSI terminal control https://pypi.org/project/colorama/
-import ccxt
+import ccxt # Add handling for crypto exchanges https://pypi.org/project/ccxt/
 import requests
 
 
